@@ -9,4 +9,20 @@ void main() {
     contador++;
     print(contador);
   } while (continuar == "y" || continuar == "yes");
+
+  // bool myBool() {
+  //   String nombre = "Jose";
+
+  //   if (nombre == "Jose") {
+  //     return true;
+  //   }
+  //   return false;
+  // }
+
+  // bool myResult = myBool();
+  // print(myResult);
+
+  // if (myResult == true) {
+  //   print("Hola my Bool");
+  // }
 }
