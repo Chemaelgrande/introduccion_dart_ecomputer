@@ -137,4 +137,8 @@ void main() {
   print(espaciadoEnBlanco);
 
   String otroNombre = "otro cambio";
+
+  List<String> diasSemana = ["L", "M", "M", "J", "V", "S", "D"];
+
+  print("${diasSemana[0]}");
 }

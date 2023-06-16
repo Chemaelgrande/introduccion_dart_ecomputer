@@ -17,10 +17,6 @@ void main() {
     stdout.writeln("Eres menor de edad, \nlo siento, no puedes entrar :(");
   }
 
-  if (edad > 18 || nombre != "Teresa") {
-    stdout.writeln("Has gando un viaje");
-  }
-
   /*
   ==  | igual a
   &&  | "y"
